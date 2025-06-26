@@ -33,7 +33,7 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ---
 
-## 🔗 Product Backlog (Toplam 300 SP) Board
+## 🔗 Product Backlog (Toplam 138P) Board
 
 [Trello Bağlantısı](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9)
 
