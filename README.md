@@ -33,7 +33,7 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ---
 
-## 🔗 Product Backlog (Toplam 138P) Board
+## 🔗 Product Backlog (Toplam 164P) Board
 
 [Trello Bağlantısı](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9)
 
@@ -41,31 +41,29 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ## Sprint 1 (24 Haziran – 6 Temmuz)
 
-### Hedef: 
+### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: Bu sprint toplam 55 puan olarak kararlaştırılmıştır. Proje toplam 164 puandır ve buna bağlı olarak sprintlere olabildiğince birbirine yakın toplam puanlara sahip görevler verilmiştir.
 
-### Sprint Backlog:
+### Sprint Backlog: Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
 
-### Daily Scrum: 
+### Daily Scrum: Daily Scrum için Google Meet üzerinde toplantılar düzenlenmiştir. Toplantı düzenlenmediği vakitler veya birinin katılamaması durumunda WhatsApp üzerinden ilerlenmiştir. Bu toplantılara dair görseller ve sprint içindeki ürün durumu [Imgur](https://imgur.com/a/nNgCZCX) üzerinde toplanmıştır
+
+### Sprint Review ve Sprint Retrospective:  Yapılan toplantıya tüm ekip katılım gösterdi. Projenin gidişatının gayet iyi olduğu ve oldukça eğlenceli geçtiği bütün ekip tarafından onaylandı. Sprint içindeki görevlerden hangilerinin tamamlanıldığı konuşuldu. Projenin devamında aynı tempoyla devam edilmesi kararlaştırıldı. İkinci sprint içinde ekip üyelerinin hangi görevlerle ilgilenmek istediği konuşuldu.
 
 ---
 
 ## Sprint 2 (7 Temmuz – 20 Temmuz)
 
-### Hedef: 
+### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: 
 
 ### Sprint Backlog:
-
-### Daily Scrum: 
 
 ---
 
 ## Sprint 3 (21 Temmuz – 3 Ağustos)
 
-### Hedef: 
+### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: 
 
 ### Sprint Backlog:
-
-### Daily Scrum:
 
 
 ---
