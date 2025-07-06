@@ -41,14 +41,30 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ## Sprint 1 (24 Haziran – 6 Temmuz)
 
-### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: Bu sprint toplam 55 puan olarak kararlaştırılmıştır. Proje toplam 164 puandır ve buna bağlı olarak sprintlere olabildiğince birbirine yakın toplam puanlara sahip görevler verilmiştir.
+### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: 
 
-### Sprint Backlog: Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
+- Bu sprint toplam 55 puan olarak kararlaştırılmıştır. Proje toplam 164 puandır ve buna bağlı olarak sprintlere olabildiğince birbirine yakın toplam puanlara sahip görevler verilmiştir.
 
-### Daily Scrum: Daily Scrum için Google Meet üzerinde toplantılar düzenlenmiştir. Toplantı düzenlenmediği vakitler veya birinin katılamaması durumunda WhatsApp üzerinden ilerlenmiştir. Bu toplantılara dair görseller ve sprint içindeki ürün durumu [Imgur](https://imgur.com/a/nNgCZCX) üzerinde toplanmıştır
+### Sprint Backlog: 
 
-### Sprint Review ve Sprint Retrospective:  Yapılan toplantıya tüm ekip katılım gösterdi. Projenin gidişatının gayet iyi olduğu ve oldukça eğlenceli geçtiği bütün ekip tarafından onaylandı. Sprint içindeki görevlerden hangilerinin tamamlanıldığı konuşuldu. Projenin devamında aynı tempoyla devam edilmesi kararlaştırıldı. İkinci sprint içinde ekip üyelerinin hangi görevlerle ilgilenmek istediği konuşuldu.
+- Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
 
+### Daily Scrum: 
+
+- Günlük Scrum toplantıları genellikle Google Meet üzerinden yapılmıştır. Bireysel katılamama durumlarında veya teknik aksaklıklarda iletişim WhatsApp grubu aracılığıyla sağlanmıştır. Toplantılara ve sprint içindeki ürün durumuna dair görsel belgeler [Imgur](https://imgur.com/a/nNgCZCX) üzerinde arşivlenmiştir.
+
+### Sprint Review: 
+
+- Sprint sonunda tüm ekip üyelerinin katıldığı Sprint Review toplantısı yapılmıştır. Tamamlanan görevler üzerinden geçilmiş, işleyen kısımlar gösterilmiş ve projedeki ilerleme değerlendirilmiştir. Tüm ekip, projenin gidişatının verimli ve eğlenceli olduğunu ifade etmiştir.
+
+### Sprint Retrospective:  
+
+- Retrospektif toplantısında, takım içi işleyiş, iletişim ve görev paylaşımı üzerine konuşulmuştur. Ekip, çalışma şeklinden memnun olduğunu belirtmiş ve bir sonraki sprintte de aynı tempoyla ilerlemeye karar vermiştir. Ayrıca ikinci sprint sırasında kimlerin hangi görevleri üstlenmek istediği de netleştirilmiştir.
+
+### Notlar
+
+- Sprint boyunca kullanılan görseller, toplantı kayıtları ve ilerleme belgeleri [Imgur](https://imgur.com/a/nNgCZCX) üzerinde toplanmıştır.
+- Puan dağılımı ve görev detayları için Sprint 1 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
 ---
 
 ## Sprint 2 (7 Temmuz – 20 Temmuz)
