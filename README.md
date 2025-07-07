@@ -63,6 +63,7 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ### Notlar
 
+- Proje Unity Version Control kullanılarak geliştirilmektedir.
 - Sprint boyunca kullanılan görseller, toplantı kayıtları ve ilerleme belgeleri [Imgur](https://imgur.com/a/nNgCZCX) üzerinde toplanmıştır.
 - Puan dağılımı ve görev detayları için Sprint 1 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
 ---
