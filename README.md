@@ -25,6 +25,7 @@
 
 Kart tabanlı, 1–4 kişilik co-op/rekabetçi hayatta kalma strateji oyunu. Gündüzleri kaynak topla, geceleri canavarlarla mücadele et veya sınırları daha da zorlayarak diğer oyunculara saldır. Her gün → gece döngüsünde yeni kartlar ve yetenekler kazan, tarafsız bölgeleri ele geçir, **son kalan** ol!
 
+[Oyun Manueli](https://docs.google.com/document/d/1hL6sxHom35rMgIgW3HPAQTqVhokYcvEo/edit?tab=t.0)
 ---
 
 ## Oyun Hikayesi
