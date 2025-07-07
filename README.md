@@ -15,9 +15,9 @@
 
 ---
 
-## Oyun İsmi: **\[?]**
+## Oyun İsmi: **Warrior of Antares**
 
-![Game Logo](assets/game-logo.png)
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/game-logo.jpg)
 
 ---
 
