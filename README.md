@@ -73,7 +73,30 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: 
 
+- Bu sprint toplam 84 puan olarak kararlaştırılmıştır. Proje toplam 164 puandır ve buna bağlı olarak sprintlere olabildiğince birbirine yakın toplam puanlara sahip görevler verilmiştir.
+
 ### Sprint Backlog:
+
+- Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
+
+### Daily Scrum: 
+
+- Günlük toplantılar takım üyelerinin genelinin müsaitlik durumuna uymadığı için genellikle WhatsApp üzerinden alınmıştır. Vakit bulunduğundan Google Meet üzerinden toplantı yapılmıştır. Toplantılara ve sprint içindeki ürün durumuna dair görsel belgeler [Imgur](https://imgur.com/a/8TvhYlh) üzerinde arşivlenmiştir.
+
+### Sprint Review: 
+
+- Bu sprintte temel sistemler büyük ölçüde tamamlandı, hatalar düzeltildi. Ana menü, ses ve müzik entegrasyonu başarıyla oturtuldu. Modelleme tarafında düzeltmeler yapıldı ve Blender kullanımıyla iyileştirmeler sağlandı.
+
+### Sprint Retrospective:  
+
+- Zaman yönetimi bu sprintte bazı ekip üyeleri için zorluk yarattı. Kişisel sebepler ve iş yoğunluğu nedeniyle katılım azaldı. Bir sonraki sprintte daha dengeli bir iş bölümü ve zaman planlaması hedefleniyor.
+
+### Notlar
+
+- Proje Unity Version Control kullanılarak geliştirilmektedir.
+- Sprint boyunca kullanılan görseller, toplantı kayıtları ve ilerleme belgeleri [Imgur](https://imgur.com/a/8TvhYlh) üzerinde toplanmıştır.
+- Puan dağılımı ve görev detayları için Sprint 1 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
+
 
 ---
 
