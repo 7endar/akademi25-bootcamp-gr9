@@ -49,10 +49,15 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 ### Sprint Backlog: 
 
 - Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
+- Sprint sonu Trello tablosu aşağıdadır.
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%201%20sonu%20trello.png)  
 
 ### Daily Scrum: 
 
 - Günlük Scrum toplantıları genellikle Google Meet üzerinden yapılmıştır. Bireysel katılamama durumlarında veya teknik aksaklıklarda iletişim WhatsApp grubu aracılığıyla sağlanmıştır. Toplantılara ve sprint içindeki ürün durumuna dair görsel belgeler [Imgur](https://imgur.com/a/nNgCZCX) üzerinde arşivlenmiştir.
+- Alınan toplantılardan ekran görüntüleri aşağıdadır.
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%201%20daily%20scrum%20meet.png)
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%201%20daily%20scrum%20wp.png)
 
 ### Sprint Review: 
 
@@ -67,6 +72,10 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 - Proje Unity Version Control kullanılarak geliştirilmektedir.
 - Sprint boyunca kullanılan görseller, toplantı kayıtları ve ilerleme belgeleri [Imgur](https://imgur.com/a/nNgCZCX) üzerinde toplanmıştır.
 - Puan dağılımı ve görev detayları için Sprint 1 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
+
+### Sprint Sonu Ürün Durumu
+
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%201%20sonu%20product%20status.gif)
 ---
 
 ## Sprint 2 (7 Temmuz – 20 Temmuz)
@@ -78,10 +87,15 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 ### Sprint Backlog:
 
 - Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
+- Sprint sonu Trello tablosu aşağıdadır.
+- ![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%202%20sonu%20trello.png)
 
 ### Daily Scrum: 
 
 - Günlük toplantılar takım üyelerinin genelinin müsaitlik durumuna uymadığı için genellikle WhatsApp üzerinden alınmıştır. Vakit bulunduğundan Google Meet üzerinden toplantı yapılmıştır. Toplantılara ve sprint içindeki ürün durumuna dair görsel belgeler [Imgur](https://imgur.com/a/8TvhYlh) üzerinde arşivlenmiştir.
+- Alınan toplantılardan ekran görüntüleri aşağıdadır.
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%202%20daily%20scrum%20meet.png)
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%202%20daily%20scrum%20wp.png)
 
 ### Sprint Review: 
 
@@ -97,6 +111,9 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 - Sprint boyunca kullanılan görseller, toplantı kayıtları ve ilerleme belgeleri [Imgur](https://imgur.com/a/8TvhYlh) üzerinde toplanmıştır.
 - Puan dağılımı ve görev detayları için Sprint 2 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
 
+### Sprint Sonu Ürün Durumu
+
+![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%202%20sonu%20product%20status%202.gif)
 
 ---
 
