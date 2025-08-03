@@ -121,9 +121,40 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 ### Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı: 
 
+- Bu sprint toplam 57 puan olarak kararlaştırılmıştır. Proje toplam 164 puandır ve buna bağlı olarak sprintlere olabildiğince birbirine yakın toplam puanlara sahip görevler verilmiştir.
+
+
 ### Sprint Backlog:
 
+- Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
+- Sprint sonu Trello tablosu aşağıdadır.
+- ![]()
 
+### Daily Scrum: 
+
+- Günlük toplantılar takım üyelerinin genelinin müsaitlik durumuna uymadığı için genellikle WhatsApp üzerinden alınmıştır. Toplantılara ve sprint içindeki ürün durumuna dair görsel belgeler [Imgur](https://imgur.com/a/daily-scrum-product-status-3-qbiZe8g) üzerinde arşivlenmiştir.
+- Alınan toplantılardan ekran görüntüleri aşağıdadır.
+- ![]()
+- ![]()
+
+### Sprint Review: 
+
+- Bu sprintte, projenin bazı önemli bileşenlerine odaklanıldı, ancak takım üyelerinin kişisel hayatlarındaki bazı durumlar nedeniyle belirlenen hedeflere ulaşılamadı. Takımın katılımı ve zaman yönetimi konularında zorluklar yaşandı. Bu sebeple sprintteki ilerleme beklendiği kadar hızlı olmadı. Ancak, proje genelinde yapılan bazı iyileştirmeler ve revizyonlar mevcut. Ana bileşenlerin tasarımı ve bazı temel işlevlerin temel haliyle tamamlanması sağlandı.
+
+### Sprint Retrospective: 
+
+- Bootcamp sürecinin ardından projeye devam etme kararı alındı. Takım üyelerinin kişisel durumlarının düzelmesiyle birlikte, proje üzerinde yeniden yoğunlaşılacak. Projeyi hızlandırmak ve zaman yönetimini daha etkin hale getirebilmek için yeni bir plan oluşturulacak. Ekip, bu süreçte daha dengeli bir iş bölümü yaparak projeyi ileriye taşıma kararı aldı.
+
+### Notlar
+
+- Proje Unity Version Control kullanılarak geliştirilmektedir.
+- Sprint boyunca kullanılan görseller, toplantı kayıtları ve ilerleme belgeleri [Imgur](https://imgur.com/a/daily-scrum-product-status-3-qbiZe8g) üzerinde toplanmıştır.
+- Puan dağılımı ve görev detayları için Sprint 3 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
+
+### Sprint Sonu Ürün Durumu
+- ![]()
+
+  
 ---
 
 > Proje, 3 Sprint boyunca kart tabanlı survival strateji oyun fikrine sadık kalarak geliştirilmiştir.
