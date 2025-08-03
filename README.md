@@ -128,14 +128,14 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 
 - Her bir sprint için [trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) içinde belirtilmiştir.
 - Sprint sonu Trello tablosu aşağıdadır.
-- ![]()
+- ![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%20sonu%20trello%203.png)
 
 ### Daily Scrum: 
 
 - Günlük toplantılar takım üyelerinin genelinin müsaitlik durumuna uymadığı için genellikle WhatsApp üzerinden alınmıştır. Toplantılara ve sprint içindeki ürün durumuna dair görsel belgeler [Imgur](https://imgur.com/a/daily-scrum-product-status-3-qbiZe8g) üzerinde arşivlenmiştir.
 - Alınan toplantılardan ekran görüntüleri aşağıdadır.
-- ![]()
-- ![]()
+- ![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%203%20daily%20scrum%20wp.png)
+- ![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%203%20daily%20scrum%20wp%202.png)
 
 ### Sprint Review: 
 
