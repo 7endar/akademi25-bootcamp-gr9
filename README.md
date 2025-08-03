@@ -152,7 +152,7 @@ Oyuncular, karanlık yaratıkların kol gezdiği bir diyarda farklı ırkların 
 - Puan dağılımı ve görev detayları için Sprint 3 [Trello](https://trello.com/b/Aky92KXS/oyun-geli%C5%9Ftirme-grup9) panosu incelenebilir.
 
 ### Sprint Sonu Ürün Durumu
-- ![]()
+- ![](https://github.com/7endar/akademi25-bootcamp-gr9/blob/main/assets/sprint%203%20sonu%20product.jpg)
 
   
 ---
